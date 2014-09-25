@@ -1,0 +1,15 @@
+.navbar-transparent {
+
+
+}
+
+.nav-font {
+	color: #FFF;
+	font-family: 'HelveticaNeue-Thin' ;
+}
+
+@font-face{
+	font-family: 'Helvetica Neue-Thin';
+	src: url('fonts/HelveticaNeue-Thin.otf');
+	src: local('Helvetica Neue-Thin'), local('HelveticaNeue-Thin'), url('fonts/riesling.ttf') format('opentype');
+}
